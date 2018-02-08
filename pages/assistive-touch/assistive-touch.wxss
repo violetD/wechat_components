@@ -1,0 +1,7 @@
+/* pages/assistive-touch/assistive-touch.wxss */
+button[type=primary] {
+  width: 128rpx;
+  height: 128rpx;
+  border-radius: 50%;
+  line-height: 128rpx;
+}

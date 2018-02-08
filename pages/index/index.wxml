@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator url="/pages/assistive-touch/assistive-touch">
+    <button type="primary">Assistive Touch</button>
+  </navigator>
+</view>

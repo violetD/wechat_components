@@ -1,0 +1,4 @@
+<!--pages/assistive-touch/assistive-touch.wxml-->
+<assistive-touch width="128rpx" height="128rpx" init-top="60%" init-left="0">
+  <button type="primary">客服</button>
+</assistive-touch>
