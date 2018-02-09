@@ -1,0 +1,4 @@
+/* pages/action-sheet/action-sheet.wxss */
+page {
+  background: red;
+}

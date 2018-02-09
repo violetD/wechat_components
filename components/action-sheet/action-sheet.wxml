@@ -1,0 +1,8 @@
+<view class="action-sheet-view">
+  <view class="action-sheet-inner-view">
+    <view class="action-sheet-item" wx:for="{{buttons}}" wx:key="{{index}}">
+      <button wx:if="{{!item.isText}}" type="{{item.type ? item.type : 'primary'}}" class="{{item.className}}" bindtap="tap" data-index="{{index}}">{{item.text}}</button>
+      <text wx:else style="{{item.style}}" bindtap="tap" data-index="{{index}}">{{item.text}}</text>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,2 @@
+<!--pages/action-sheet/action-sheet.wxml-->
+<action-sheet bind:ontap="onTap" buttons="{{buttons}}"></action-sheet>

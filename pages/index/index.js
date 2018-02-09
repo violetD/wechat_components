@@ -3,4 +3,9 @@
 const app = getApp()
 
 Page({
+  onShow () {
+    // wx.navigateTo({
+    //   url: '/pages/action-sheet/action-sheet',
+    // })
+  }
 })

@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/assistive-touch/assistive-touch"
+    "pages/assistive-touch/assistive-touch",
+    "pages/action-sheet/action-sheet"
   ],
   "window":{
     "backgroundTextStyle":"light",

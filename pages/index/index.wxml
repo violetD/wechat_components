@@ -3,4 +3,7 @@
   <navigator url="/pages/assistive-touch/assistive-touch">
     <button type="primary">Assistive Touch</button>
   </navigator>
+  <navigator url="/pages/action-sheet/action-sheet">
+    <button type="primary">Action Sheet</button>
+  </navigator>
 </view>
